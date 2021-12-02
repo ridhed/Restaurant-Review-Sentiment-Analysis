@@ -1,4 +1,5 @@
 <!-- Add banner here -->
+![undraw_reviews_lp8w](https://user-images.githubusercontent.com/83410546/144433693-e09de101-cb1a-480c-91a1-fa386b2596d5.png)
 
 # Restaurant-Review-Sentiment-Analysis
 
@@ -17,7 +18,7 @@ Sentiment Analysis using Naive bayes  classifier on Restaurant reviews.
 
 - [Project Title](#project-title)
 - [DataSet](#kaggle-dataset-link)
-- [How I Did The Weather Dataset Analysis](#how-i-did-the-restaurent-review-dataset-analysis)
+- [How I Did The Restaurant Review Dataset Analysis](#how-i-did-the-restaurent-review-dataset-analysis)
 
 # Kaggle Dataset Link
 https://www.kaggle.com/akram24/restaurant-reviews
@@ -41,3 +42,4 @@ https://www.kaggle.com/akram24/restaurant-reviews
 [(Back to top)](#table-of-contents)
 
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
+
